@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.manubar{
+    background-color: #222831;
+    text-align: center;
+    display: block;
+}
+.manubar ul{
+    list-style: none;
+}
+.manubar ul li{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.manubar ul li a{
+      text-decoration: none;
+    color:white;
+    font-size: 20px;
+    
+}
+.manubar ul li a:hover{
+    color: #fc2f2f;
+    transform: scale(1.5);
+   
+}
+.banner{
+    background-image: url(../images/pepsi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding:200px;
+     margin-bottom: -50px;
+}
+.container{
+    color: ##abc37d;
+    font-family: sans-serif;
+}
+.container h1{
+    margin-bottom: 10px;
+    color: orange;
+}
+.container p{
+    font-size: 18px;
+    margin-bottom: 24px;
+    color: orange;
+    font-family: times new roman;
+    
+}
+.container a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 10px;
+    background: transparent;
+    border: 2px solid white;
+}
+.container a:hover{
+    color: black;
+    background-color: #3476d9;
+    border: 2px solid black;
+}
+.news{
+
+    background: #f2fff5;
+   margin: 50px 0px;
+    padding: 60px;
+    
+
+}
+
+.news h1{
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+.news p {
+    margin-bottom: 30px;
+    text-align: center;
+    width: 625px;
+    margin: auto;
+    height: 95px;
+}
+.cont form{
+    text-align: center;
+    
+}
+ .dd {
+    width: 259px;
+    height: 30px;
+     background: transparent;
+}
+.kk{
+    width: 80px;
+    height: 34px;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+.talk{
+    margin-top: -50px;
+    background-color: whitesmoke;
+    padding: 60px;
+    background: transparent;
+
+}
+.cont h1{
+    text-align: center;
+    margin-bottom: 8px;
+    
+}
+.cont p{
+    text-align: center;
+    margin-bottom: 45px;
+}
+.first{
+    width: 329px;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 18px;
+}
+.second{
+    width: 329px;
+    height: 40px;
+    margin-bottom: 18px;
+    margin: auto;
+}
+.lst {
+    width: 669px;
+    height: 288px;
+    margin-top: 18px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+.msg {
+    width: 138px;
+    height: 40px;
+    background: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.footer{
+   
+    background-color: black;
+    color: white;
+    padding: 80px;
+    margin: auto;
+}
+.top h2{
+    color: black;
+}
+.top ul{
+    list-style: none;
+}
+.top ul li{
+    list-style: none;
+}
+.top ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    text-decoration: none;
+}
